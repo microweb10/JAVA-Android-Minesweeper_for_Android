@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+	<string name="app_name">AppMines</string>
+	<string name="menu_new">New Game</string>
+	<string name="menu_new_shortcut">N</string>
+	<string name="menu_pref">Preferences</string>
+	<string name="menu_pref_shortcut">P</string>
+	<string name="menu_exit">EXIT</string>
+	<string name="menu_exit_shortcut">Q</string>
+	<string name="preferences">Settings</string>
+</resources>

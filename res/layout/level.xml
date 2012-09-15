@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+   	<LinearLayout android:layout_height="wrap_content" android:layout_width="fill_parent" android:orientation="vertical" android:gravity="center">
+   		<TextView android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:text="SELECT A LEVEL"></TextView>
+   		<TextView android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:text="(Number of Mines)"></TextView>
+        <Button android:layout_height="wrap_content" android:id="@+id/buttonEasy" android:layout_width="150dip" android:text="EASY (15)" android:layout_marginTop="40dip" android:textColor="#0000FF" android:layout_marginBottom="10dip"></Button>
+        <Button android:layout_height="wrap_content" android:id="@+id/buttonNormal" android:layout_width="150dip" android:text="NORMAL (25)" android:layout_marginTop="10dip" android:textColor="#00FF00" android:layout_marginBottom="10dip"></Button>
+        <Button android:layout_height="wrap_content" android:id="@+id/buttonHard" android:layout_width="150dip" android:text="HARD (35)" android:layout_marginTop="10dip" android:textColor="#FF0000" android:layout_marginBottom="10dip"></Button>
+    </LinearLayout>
+    </LinearLayout>
